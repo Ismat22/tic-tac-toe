@@ -42,7 +42,9 @@ ol, ul {
 
 .game {
     display: flex;
-    flex-direction: row;
+    flex-direction1: row;
+    align-self: center;
+    margin-left: 800px;
 }
 
 .game-info {
